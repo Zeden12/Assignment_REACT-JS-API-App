@@ -1,5 +1,3 @@
-echo "
-
 # Assignment_REACT-JS-API-App
 
 Create a word document give it your names and do the following tasks:
@@ -12,7 +10,5 @@ Create a word document give it your names and do the following tasks:
 6. Run the test and make the screenshot to show us the last results you have
 7. Save everything and send the assignment to my email address: 
 8. Push your code to the repository (Master)
-
-" >> README.md
 
 
